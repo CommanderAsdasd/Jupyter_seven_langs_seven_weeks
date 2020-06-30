@@ -1,8 +1,15 @@
 ## install
+
 ```
 pip install pipenv
 pipenv instlal && pipenv shell
-'''
+```
+
+After adding lang to kernelspec (see lang sections)
+
+```
+jupyter run
+```
 
 ### Prolog
 
